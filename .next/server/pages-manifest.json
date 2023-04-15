@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/inputData": "pages/inputData.js",
+  "/api/get_program_eazy_passport_data": "pages/api/get_program_eazy_passport_data.js",
+  "/visualizeData": "pages/visualizeData.js",
+  "/api/query": "pages/api/query.js",
+  "/urusan-kepegawaian-dan-umum": "pages/urusan-kepegawaian-dan-umum.js",
+  "/UserSetting": "pages/UserSetting.js"
+}
